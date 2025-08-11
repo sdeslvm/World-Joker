@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		63ABADAF2E40DB10007E269C /* World Joker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "World Joker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63ABADAF2E40DB10007E269C /* Royal Party Fun Rush.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Royal Party Fun Rush.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		63ABADB02E40DB10007E269C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				63ABADAF2E40DB10007E269C /* World Joker.app */,
+				63ABADAF2E40DB10007E269C /* Royal Party Fun Rush.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		63ABADAE2E40DB10007E269C /* World Joker */ = {
+		63ABADAE2E40DB10007E269C /* Royal Party Fun Rush */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 63ABADBD2E40DB12007E269C /* Build configuration list for PBXNativeTarget "World Joker" */;
+			buildConfigurationList = 63ABADBD2E40DB12007E269C /* Build configuration list for PBXNativeTarget "Royal Party Fun Rush" */;
 			buildPhases = (
 				63ABADAB2E40DB10007E269C /* Sources */,
 				63ABADAC2E40DB10007E269C /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				63ABADB12E40DB10007E269C /* World Joker */,
 			);
-			name = "World Joker";
+			name = "Royal Party Fun Rush";
 			packageProductDependencies = (
 			);
 			productName = "World Joker";
-			productReference = 63ABADAF2E40DB10007E269C /* World Joker.app */;
+			productReference = 63ABADAF2E40DB10007E269C /* Royal Party Fun Rush.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 63ABADAA2E40DB10007E269C /* Build configuration list for PBXProject "World Joker" */;
+			buildConfigurationList = 63ABADAA2E40DB10007E269C /* Build configuration list for PBXProject "Royal Party Fun Rush" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				63ABADAE2E40DB10007E269C /* World Joker */,
+				63ABADAE2E40DB10007E269C /* Royal Party Fun Rush */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.worldjok.top;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -299,7 +299,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.worldjok.top;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		63ABADAA2E40DB10007E269C /* Build configuration list for PBXProject "World Joker" */ = {
+		63ABADAA2E40DB10007E269C /* Build configuration list for PBXProject "Royal Party Fun Rush" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				63ABADBB2E40DB12007E269C /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		63ABADBD2E40DB12007E269C /* Build configuration list for PBXNativeTarget "World Joker" */ = {
+		63ABADBD2E40DB12007E269C /* Build configuration list for PBXNativeTarget "Royal Party Fun Rush" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				63ABADBE2E40DB12007E269C /* Debug */,
